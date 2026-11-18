@@ -1,0 +1,10 @@
+{
+  "id": "nsh-graph",
+  "name": "nsh-graph",
+  "author": "JetSquirrel",
+  "description": "An interactive network graph view for Native Shell, written in TSX: force-directed (Barnes–Hut), hierarchical, circular and grid layouts on a native canvas, with pan, zoom, drag, pinning, keyboard navigation, community hulls and PNG export.",
+  "category": "component",
+  "source": "https://github.com/JetSquirrel/nsh-graph",
+  "website": "https://jetsquirrel.github.io/nsh-graph/",
+  "publishedAt": "2026-11-18T00:00:00Z"
+}
